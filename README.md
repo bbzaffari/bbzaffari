@@ -30,7 +30,7 @@ Includes custom drivers, FreeRTOS tasks, hardware integration, and a full TCC  a
 
 ---
 
-### 🔹 [PureCPP System](https://github.com/bbzaffari/Open-Source-RAG-Engine-System-with-Modular-Vector-Processing)
+### 🔹 [PureCPP System](https://github.com/bbzaffari/purecpp_sp)
 Cross-language C++/Python retrieval engine for modular vector processing and hybrid ML workflows.  
 Features **embedding pipelines, FAISS search, PyBind11 bindings**, and **OpenMP-accelerated** document operations, packed in reproducible **manylinux** wheels and CI-driven builds.
 
