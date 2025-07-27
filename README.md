@@ -7,7 +7,7 @@
 ## 🛠️ Core Technologies
 
 - **Languages:** C, C++, Python, VHDL  
-- **Embedded Platforms:** ESP32, FreeRTOS, LoRa (SX127x), I²C, SPI, UART  
+- **Embedded Platforms:** ESP32, FreeRTOS, Zephyr
 - **AI & ML:** PyTorch, CNNs, TorchScript, embedded inference, signal-based feature extraction  
 - **Build & Tooling:** PyBind11, CMake, Docker, Conan, GitHub Actions, Make, GCC/Clang  
 - **Communication & Control:** MQTT, custom serial protocols, FSMs, interrupts (ISR), debounce handling  
