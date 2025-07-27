@@ -23,12 +23,10 @@ Combines ESP32 nodes, LoRa + MQTT communication, dew-point-aware logic, and scal
 Includes custom drivers, FreeRTOS tasks, hardware integration, and a full TCC  and analysis.
 💸 Delivered at **R$ 500 per module** vs. R$ 3 000 for commercial systems — **scalable, dependable**, and tailored for Brazilian agribusiness.
 
-![LoRa](https://img.shields.io/badge/Comm-LoRa%20+%20MQTT-green)
+![Comm](https://img.shields.io/badge/Comm-LoRa%20+%20MQTT-green)
 ![System](https://img.shields.io/badge/Critical-Aware)
-![FreeRTOS](https://img.shields.io/badge/RTOS-FreeRTOS-green) 
-![MQTT](https://img.shields.io/badge/Protocol-MQTT-lightgrey)
 ![Build System](https://img.shields.io/badge/Build-CMake-blue)
-![ESP32 Framework](https://img.shields.io/badge/Framework-ESP--IDF-orange)
+![ESP32](https://img.shields.io/badge/Framework-ESP--IDF-orange)
 
 ---
 
