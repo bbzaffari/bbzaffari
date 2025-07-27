@@ -24,7 +24,7 @@ Includes custom drivers, FreeRTOS tasks, hardware integration, and a full TCC  a
 💸 Delivered at **R$ 500 per module** vs. R$ 3 000 for commercial systems — **scalable, dependable**, and tailored for Brazilian agribusiness.
 
 ![Comm](https://img.shields.io/badge/Comm-LoRa%20+%20MQTT-green)
-![System](https://img.shields.io/badge/Critical-Aware)
+![System](https://img.shields.io/badge/Critical-Aware-red)
 ![Build System](https://img.shields.io/badge/Build-CMake-blue)
 ![ESP32](https://img.shields.io/badge/Framework-ESP--IDF-orange)
 
