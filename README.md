@@ -55,7 +55,7 @@ Includes finite state machine design, input debouncing, and full **ASIC-oriented
 ---
 
 ### 🔹 [Simple Messaging Kernel Module](https://github.com/bbzaffari/Simple-Messaging-Kernel-Module)  
-Lightweight **Linux kernel module (KLM)** enabling **message queueing between user-space processes** via a `/dev/mq` character device interface.  
+Lightweight **Loadable Kernel Module (LKM)** enabling **message queueing between user-space processes** via a `/dev/mq` character device interface.  
 Implements **per-process circular buffers**, a **control block registry**, and **spinlock-based synchronization** for concurrent messaging.  
 Includes a C user-space client for interaction and was **cross-compiled with Buildroot** for embedded Linux systems.
 
