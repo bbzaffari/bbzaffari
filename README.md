@@ -1,4 +1,6 @@
-# 👋 Hi, Hello! 🇺🇸  ¡Hola! 🇪🇸  你好! 🇨🇳  안녕하세요! 🇰🇷  こんにちは! 🇯🇵  Привет! 🇷🇺  Olá! 🇧🇷  Bonjour! 🇫🇷  Ciao! 🇮🇹  Hallo! 🇩🇪  مرحبًا! 🇸🇦  नमस्ते! 🇮🇳  שלום! 🇮🇱  Sawubona! 🇿🇦  Szia! 🇭🇺  สวัสดี! 🇹🇭
+# 👋 Hello! 🇺🇸  ¡Hola! 🇪🇸  你好! 🇨🇳  안녕하세요! 🇰🇷  こんにちは! 🇯🇵  Привет! 🇷🇺  Olá! 🇧🇷  Bonjour! 🇫🇷  Ciao! 🇮🇹  Hallo! 🇩🇪  مرحبًا! 🇸🇦  नमस्ते! 🇮🇳  שלום! 🇮🇱  Sawubona! 🇿🇦  Szia! 🇭🇺  สวัสดี! 🇹🇭
+
+
  I'm Bruno Bavaresco Zaffari
 
 🎓 Computer Engineering graduate focused on embedded systems, applied AI, and hardware–software integration.  
