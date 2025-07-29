@@ -11,7 +11,7 @@
 
 - **Languages:** C, C++, Python, VHDL, SQL
 - **Embedded Platforms:** ESP32, FreeRTOS, Zephyr, Cortex-M0(CubeIDE)
-- **AI & ML:** PyTorch, CNNs, TorchScript, embedded inference, signal-based feature extraction  
+- **AI & ML:** PyTorch, CNNs, Torch C++, embedded inference, signal-based feature extraction  
 - **Build & Tooling:** PyBind11, CMake, Docker, Conan, GitHub Actions, Make, GCC/MSVC
 - **Communication & Control:** MQTT, custom serial protocols, FSMs, interrupts (ISR), debounce handling  
 - **Focus Areas:** Embedded and AI systems, dependable design, cold-chain automation, hardware–software co-design, vector-based retrieval (FAISS), hybrid packaging (C++/Python)
