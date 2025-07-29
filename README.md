@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Bruno Bavaresco Zaffari
-*¡Hola 🇪🇸! · 你好 🇨🇳! · \안녕하세요 🇰🇷! · こんにちは 🇯🇵! · Привет 🇷🇺! · Olá 🇧🇷! · \ Bonjour 🇫🇷! · Ciao 🇮🇹! · Hallo 🇩🇪! · مرحبًا 🇸🇦! · नमस्ते 🇮🇳!*
+*¡Hola 🇪🇸! · 你好 🇨🇳! ·* 
+*안녕하세요 🇰🇷! · こんにちは 🇯🇵! · Привет 🇷🇺! · Olá 🇧🇷! ·*
+*Bonjour 🇫🇷! · Ciao 🇮🇹! · Hallo 🇩🇪! · مرحبًا 🇸🇦! · नमस्ते 🇮🇳!*
 
 🎓 Computer Engineering graduate focused on embedded systems, applied AI, and hardware–software integration.  
 
