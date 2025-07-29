@@ -3,7 +3,8 @@
 *안녕하세요 🇰🇷! · こんにちは 🇯🇵! · Привет 🇷🇺! ·* \
 *Bonjour 🇫🇷! · Ciao 🇮🇹! · Hallo 🇩🇪! · مرحبًا 🇸🇦! · नमस्ते 🇮🇳!*
 
-🎓 Computer Engineering graduate focused on embedded systems, applied AI, and hardware–software integration. \
+🎓 Computer Engineering graduate focused on embedded systems, applied AI, and hardware–software integration. 
+
 ***[Core Technologies](#%EF%B8%8F-core-technologies)***\
 ***[Featured Projects](#-featured-projects)***\
 ***[Get in touch](#-What-i-believe)***
