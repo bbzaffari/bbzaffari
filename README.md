@@ -68,6 +68,23 @@ Includes a C user-space client for interaction and was **cross-compiled with Bui
 
 
 ---
+### 🔹 [Vigenère Cipher Cryptanalysis Tool](https://github.com/bbzaffari/VigenereDecryptor)
+*Python-based cryptanalysis tool for the classical Vigenère cipher — developed with academic rigor and statistical methods.*
+This tool performs **automated cryptanalysis** of messages encrypted with the **Vigenère cipher**, a classical polyalphabetic substitution technique.  
+Designed for educational purposes, it showcases the application of **frequency analysis and statistical inference** to deduce the key and decrypt a ciphertext.
+
+🔎 **Techniques implemented:**
+- 🧬 **Kasiski Examination**: identifies repeated sequences to suggest key lengths.
+- 📈 **Index of Coincidence (IC)**: detects statistical peaks indicating key length candidates.
+- 📊 **Chi-Square Test (χ²)**: compares letter frequencies in decrypted segments to the expected distribution in Portuguese to refine key estimation.
+
+![Language](https://img.shields.io/badge/Language-Python-blue)
+![Crypto](https://img.shields.io/badge/Focus-Cryptanalysis-critical)
+![Stats](https://img.shields.io/badge/Analysis-χ²%20%7C%20IC%20%7C%20Kasiski-informational)
+![Report](https://img.shields.io/badge/Methodology-PDF%20Report-lightgrey)
+![License](https://img.shields.io/github/license/bbzaffari/VigenereDecryptor)
+
+---
 
 ## 🧠 What I Believe
 
