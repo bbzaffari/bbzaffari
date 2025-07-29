@@ -79,7 +79,7 @@ Designed for educational purposes, it showcases the application of **frequency a
 ![Language](https://img.shields.io/badge/Language-Python-blue)
 ![Crypto](https://img.shields.io/badge/Focus-Cryptanalysis-critical)
 ![Stats](https://img.shields.io/badge/Analysis-χ²%20%7C%20IC%20%7C%20Kasiski-informational)
-![Report](https://img.shields.io/badge/Methodology-IEEE-Template%20Report-lightgrey)
+![Report](https://img.shields.io/badge/Format-IEEE--style--Report-lightgrey)
 
 ---
 
