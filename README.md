@@ -60,7 +60,7 @@ Includes finite state machine design, and full **ASIC-oriented flow**, with post
 
 ---
 
-### 🔹 [Simple Messaging Kernel Module](https://github.com/bbzaffari/Simple-Messaging-Kernel-Module)  
+### 🔹 [Messaging Kernel Module](https://github.com/bbzaffari/Messaging-Kernel-Module)  
 Lightweight **Loadable Kernel Module (LKM)** enabling **message queueing between user-space processes** via a `/dev/mq` character device interface.  
 Implements **per-process circular buffers**, a **control block registry**, and **spinlock-based synchronization** for concurrent messaging.  
 Includes a C user-space client for interaction and was **cross-compiled with Buildroot** for embedded Linux systems.
