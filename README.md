@@ -10,7 +10,7 @@
 ## 🛠️ Core Technologies
 
 - **Languages:** C, C++, Python, VHDL, SQL
-- **Embedded Platforms:** ESP32 (ESP-IDF), Cortex-M0 (CubeIDE), FreeRTOS, Zephyr
+- **Embedded Platforms:** Cortex-M0 (CubeIDE), ESP32 (ESP-IDF), FreeRTOS, Zephyr
 - **AI & ML:** PyTorch, CNNs, Torch C++, embedded inference, signal-based feature extraction  
 - **Build & Tooling:** PyBind11, CMake, Docker, Conan, GitHub Actions, Make, GCC/MSVC
 - **Communication & Control:** MQTT, custom serial protocols, FSMs, interrupts (ISR), debounce handling  
