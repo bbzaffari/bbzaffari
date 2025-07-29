@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Bruno Bavaresco Zaffari
 *¡Hola 🇪🇸! · 你好 🇨🇳! ·* 
+
 *안녕하세요 🇰🇷! · こんにちは 🇯🇵! · Привет 🇷🇺! · Olá 🇧🇷! ·*
 *Bonjour 🇫🇷! · Ciao 🇮🇹! · Hallo 🇩🇪! · مرحبًا 🇸🇦! · नमस्ते 🇮🇳!*
 
