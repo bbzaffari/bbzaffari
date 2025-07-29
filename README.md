@@ -1,7 +1,5 @@
-# 👋 **Hello! 🇺🇸** **¡Hola! 🇪🇸** **你好! 🇨🇳** **안녕하세요! 🇰🇷** **こんにちは! 🇯🇵** **Привет! 🇷🇺** **Olá! 🇧🇷** **Bonjour! 🇫🇷** **Ciao! 🇮🇹** **Hallo! 🇩🇪** **مرحبًا! 🇸🇦** **नमस्ते! 🇮🇳** **שלום! 🇮🇱** **Sawubona! 🇿🇦** **Szia! 🇭🇺** **สวัสดี! 🇹🇭**
-
-
- I'm Bruno Bavaresco Zaffari
+# 👋 Hi, I'm Bruno Bavaresco Zaffari
+*¡Hola 🇪🇸! · 你好 🇨🇳! · \안녕하세요 🇰🇷! · こんにちは 🇯🇵! · Привет 🇷🇺! · Olá 🇧🇷! · \ Bonjour 🇫🇷! · Ciao 🇮🇹! · Hallo 🇩🇪! · مرحبًا 🇸🇦! · नमस्ते 🇮🇳!*
 
 🎓 Computer Engineering graduate focused on embedded systems, applied AI, and hardware–software integration.  
 
@@ -9,10 +7,10 @@
 
 ## 🛠️ Core Technologies
 
-- **Languages:** C, C++, Python, VHDL  
+- **Languages:** C, C++, Python, VHDL, SQL
 - **Embedded Platforms:** ESP32, FreeRTOS, Zephyr
 - **AI & ML:** PyTorch, CNNs, TorchScript, embedded inference, signal-based feature extraction  
-- **Build & Tooling:** PyBind11, CMake, Docker, Conan, GitHub Actions, Make, GCC/Clang  
+- **Build & Tooling:** PyBind11, CMake, Docker, Conan, GitHub Actions, Make, GCC/MSVC
 - **Communication & Control:** MQTT, custom serial protocols, FSMs, interrupts (ISR), debounce handling  
 - **Focus Areas:** Embedded and AI systems, dependable design, cold-chain automation, hardware–software co-design, vector-based retrieval (FAISS), hybrid packaging (C++/Python)
 
