@@ -47,7 +47,7 @@ Features **embedding pipelines, FAISS search, PyBind11 bindings**, and **OpenMP-
 ---
 ### 🔹 [PS/2 VHDL Driver](https://github.com/bbzaffari/Driver-PS2-Mouse)
 RTL module for PS/2 mouse decoding, written in **VHDL** and verified with **functional testbenches and synthesis reports**.  
-Includes finite state machine design, input debouncing, and full **ASIC-oriented flow**, with post-synthesis timing validation and Cadence toolchain support.
+Includes finite state machine design, and full **ASIC-oriented flow**, with post-synthesis timing validation and Cadence toolchain support.
 
 ![VHDL](https://img.shields.io/badge/Language-VHDL-yellow)
 ![Design](https://img.shields.io/badge/Flow-ASIC%20Synthesis-critical)
