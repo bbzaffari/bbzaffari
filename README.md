@@ -62,9 +62,9 @@ Lightweight **Loadable Kernel Module (LKM)** enabling **message queueing between
 Implements **per-process circular buffers**, a **control block registry**, and **spinlock-based synchronization** for concurrent messaging.  
 Includes a C user-space client for interaction and was **cross-compiled with Buildroot** for embedded Linux systems.
 
-![Linux](https://img.shields.io/badge/Kernel-Linux-black)  
-![Build](https://img.shields.io/badge/Build-Cross--compiled-blueviolet)  
-![Tool](https://img.shields.io/badge/Tool-Buildroot-informational)  
+![Linux](https://img.shields.io/badge/Kernel-Linux-black)
+![Build](https://img.shields.io/badge/Build-Cross--compiled-blueviolet)
+![Tool](https://img.shields.io/badge/Tool-Buildroot-informational)
 
 
 ---
