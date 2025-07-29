@@ -13,7 +13,7 @@
 - **Embedded Platforms:** Cortex-M0 (CubeIDE), ESP32 (ESP-IDF), FreeRTOS, Zephyr
 - **AI & ML:** PyTorch, CNNs, Torch C++, embedded inference, signal-based feature extraction  
 - **Build & Tooling:** PyBind11, CMake, Docker, Conan, GitHub Actions, Make, GCC/MSVC
-- **Communication & Control:** TCP/UDP, MQTT, custom serial protocols,  FSMs, interrupts (ISR), debounce handling  
+- **Communication & Control:** TCP/UDP, MQTT, serial protocols(I2C, UART,SPI,1-Wire, etc),interrupts (ISR), thread-safety 
 - **Focus Areas:** C/C++ systems, embedded, AI systems, safety-critical, dependable design, automation, hardware–software co-design, vector-based retrieval (FAISS), hybrid packaging (C++/Python), DevOps
 
 ---
