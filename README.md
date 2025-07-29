@@ -6,7 +6,8 @@
 🎓 Computer Engineering graduate focused on embedded systems, applied AI, and hardware–software integration.  
 - [Core Technologies](#-core-technologies)
 - [Featured Projects](#-featured-projects)
-- [Pensamentos](#What-I-Believe)
+- [Pensamentos](#what-i-believe)
+  
 ---
 
 ## 🛠️ Core Technologies
