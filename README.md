@@ -26,10 +26,10 @@
 ## 💼 Featured Projects
 
 ### 🔹 [Cooling-Link EcoSystem](https://github.com/bbzaffari/Cooling-Link-Controller)
-Modular system-architecture for wireless environmental monitoring and control in cold-storage chambers.  
+Modular system-architecture for wireless environmental monitoring and control in cold-storage chambers — **scalable, dependable**.
 Combines **ESP32** nodes, LoRa + MQTT communication, dew-point-aware logic, and scalable sensor-actuator coordination.
 Includes custom drivers, FreeRTOS tasks, hardware integration, and analysis.\
-**Delivered at U$ 120** compared to R$ 3000 charged by alternative commercial solutions. — **scalable, dependable**, and tailored for Brazilian agribusiness.
+**Delivered at U$ 120** compared to R$ 3000 charged by alternative commercial solutions. —  tailored for Brazilian agribusiness.
 
 ![ESP32](https://img.shields.io/badge/Framework-ESP--IDF-orange)
 ![Comm](https://img.shields.io/badge/Comm-LoRa%20+%20MQTT-green)
