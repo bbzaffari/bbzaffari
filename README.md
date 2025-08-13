@@ -31,10 +31,10 @@ Combines **ESP32** nodes, LoRa + MQTT communication, dew-point-aware logic, and 
 Includes custom drivers, FreeRTOS tasks, hardware integration, and analysis.\
 **Delivered at U$ 120** compared to R$ 3000 charged by alternative commercial solutions. —  tailored for Brazilian agribusiness.
 
-![ESP32](https://img.shields.io/badge/Framework-ESP--IDF-orange)
-![Comm](https://img.shields.io/badge/Comm-LoRa%20+%20MQTT-green)
-![System](https://img.shields.io/badge/System-Critical--Aware-red)
-![Build System](https://img.shields.io/badge/Build-CMake-blue)
+[![ESP32](https://img.shields.io/badge/Framework-ESP--IDF-orange)]()
+[![Comm](https://img.shields.io/badge/Comm-LoRa%20+%20MQTT-green)]()
+[![System](https://img.shields.io/badge/System-Critical--Aware-red)]()
+[![Build System](https://img.shields.io/badge/Build-CMake-blue)]()
 
 
 ---
@@ -43,22 +43,22 @@ Includes custom drivers, FreeRTOS tasks, hardware integration, and analysis.\
 Cross-language C++/Python retrieval engine for modular vector processing and hybrid ML workflows.  
 Features **embedding pipelines, FAISS search, PyBind11 bindings**, and **OpenMP-accelerated** document operations, packed in reproducible **manylinux** wheels and CI-driven builds.
 
-![Language](https://img.shields.io/badge/Language-C++20-blue)
-![Bindings](https://img.shields.io/badge/Bindings-PyBind11-brightgreen)
-![Build](https://img.shields.io/badge/Build-CMake-blue)
-![CI](https://img.shields.io/badge/CI-GitHub%20Actions-purple)
-![Packaging](https://img.shields.io/badge/Wheels-manylinux-critical)
-![Parallelism](https://img.shields.io/badge/Parallel-OpenMP-blueviolet)
+[![Language](https://img.shields.io/badge/Language-C++20-blue)]()
+[![Bindings](https://img.shields.io/badge/Bindings-PyBind11-brightgreen)]()
+[![Build](https://img.shields.io/badge/Build-CMake-blue)]()
+[![CI](https://img.shields.io/badge/CI-GitHub%20Actions-purple)]()
+[![Packaging](https://img.shields.io/badge/Wheels-manylinux-critical)]()
+[![Parallelism](https://img.shields.io/badge/Parallel-OpenMP-blueviolet)]()
 
 ---
 ### 🔹 [PS/2 VHDL Driver](https://github.com/bbzaffari/Driver-PS2-Mouse)
 RTL module for PS/2 mouse decoding, written in **VHDL** and verified with **functional testbenches and synthesis reports**.  
 Includes finite state machine design, and full **ASIC-oriented flow**, with post-synthesis timing validation and Cadence toolchain support.
 
-![VHDL](https://img.shields.io/badge/Language-VHDL-yellow)
-![Design](https://img.shields.io/badge/Flow-ASIC%20Synthesis-critical)
-![Testbench](https://img.shields.io/badge/Verification-Testbench-blue)
-![Platform](https://img.shields.io/badge/Tools-Cadence-brightgreen)
+[![VHDL](https://img.shields.io/badge/Language-VHDL-yellow)]()
+[![Design](https://img.shields.io/badge/Flow-ASIC%20Synthesis-critical)]()
+[![Testbench](https://img.shields.io/badge/Verification-Testbench-blue)]()
+[![Platform](https://img.shields.io/badge/Tools-Cadence-brightgreen)]()
 
 
 ---
@@ -68,9 +68,9 @@ Includes finite state machine design, and full **ASIC-oriented flow**, with post
 Implements **per-process circular buffers**, a **control block registry**, and **spinlock-based synchronization** for concurrent messaging.  
 Includes a C user-space client for interaction and was **cross-compiled with Buildroot** for embedded Linux systems.
 
-![Linux](https://img.shields.io/badge/Kernel-Linux-black)
-![Build](https://img.shields.io/badge/Build-Cross--compiled-blueviolet)
-![Tool](https://img.shields.io/badge/Tool-Buildroot-informational)
+[![Linux](https://img.shields.io/badge/Kernel-Linux-black)]()
+[![Build](https://img.shields.io/badge/Build-Cross--compiled-blueviolet)]()
+[![Tool](https://img.shields.io/badge/Tool-Buildroot-informational)]()
 
 
 ---
@@ -79,10 +79,10 @@ Includes a C user-space client for interaction and was **cross-compiled with Bui
 This tool performs **automated cryptanalysis** of messages encrypted with the **Vigenère cipher**, a classical polyalphabetic substitution technique.  
 Designed for educational purposes, it showcases the application of **frequency analysis and statistical inference** to deduce the key and decrypt a ciphertext. *Python-based cryptanalysis tool for the classical Vigenère cipher — developed with academic rigor and statistical methods.*
 
-![Language](https://img.shields.io/badge/Language-Python-blue)
-![Crypto](https://img.shields.io/badge/Focus-Cryptanalysis-critical)
-![Stats](https://img.shields.io/badge/Analysis-χ²%20%7C%20IC%20%7C%20Kasiski-informational)
-![Report](https://img.shields.io/badge/Format-IEEE--style--Report-lightgrey)
+[![Language](https://img.shields.io/badge/Language-Python-blue)]()
+[![Crypto](https://img.shields.io/badge/Focus-Cryptanalysis-critical)]()
+[![Stats](https://img.shields.io/badge/Analysis-χ²%20%7C%20IC%20%7C%20Kasiski-informational)]()
+[![Report](https://img.shields.io/badge/Format-IEEE--style--Report-lightgrey)]()
 
 ---
 
