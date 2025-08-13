@@ -6,8 +6,8 @@
 🎓 Computer Engineering graduate focused on embedded systems, applied AI, and hardware–software integration. 
 
 
-[***Core Technologies***](#%EF%B8%8F-core-technologies) \
-[***Featured Projects***](#-featured-projects)\
+[***🛠️ Core Technologies***](#%EF%B8%8F-core-technologies) \
+[***💼 Featured Projects***](#-featured-projects)\
 [***Get in touch***](#-what-i-believe)
   
 ---
@@ -100,6 +100,6 @@ Designed for educational purposes, it showcases the application of **frequency a
 
 - 📧 bruno.zaffari@edu.pucrs.br  
 - 💼 [LinkedIn](https://www.linkedin.com/in/bruno-bavaresco-zaffari)  
-- 🧠 [TCC Final Project Thesis](https://github.com/bbzaffari/TCC-Final-Project-Thesis)
+- [TCC Final Project Thesis](https://github.com/bbzaffari/TCC-Final-Project-Thesis)
 
 ---
