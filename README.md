@@ -7,8 +7,9 @@
 
 
 🛠️ [***Core Technologies***](#%EF%B8%8F-core-technologies) \
-💼 [***Featured Projects***](#-featured-projects)\
-    [***Get in touch***](#-what-i-believe)
+💼 [***Featured Projects***](#-featured-projects)
+
+[***Get in touch***](#-what-i-believe)
   
 ---
 
