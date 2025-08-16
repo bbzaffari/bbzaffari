@@ -95,6 +95,7 @@ Designed for educational purposes, it showcases the application of **frequency a
 
 - 📧 bruno.zaffari@edu.pucrs.br  
 - 💼 [LinkedIn](https://www.linkedin.com/in/bruno-bavaresco-zaffari)  
-  [TCC Final Project Thesis](https://github.com/bbzaffari/TCC-Final-Project-Thesis)
+
+        [TCC Final Project Thesis](https://github.com/bbzaffari/TCC-Final-Project-Thesis)
 
 ---
