@@ -23,12 +23,16 @@
 - **Focus Areas:** C/C++ systems, embedded, AI systems, safety-critical, dependable design, automation, hardware–software co-design, vector-based retrieval (FAISS), hybrid packaging (C++/Python), DevOps
 
 ---
+## 📄 Confidentiality Notice
 
+Due to the need to preserve strategic information until the patent process is fully regularized, the thesis project remains private and access is currently restricted. 
+
+Public disclosure will only be granted once all legal and procedural matters are resolved.
+---
 ## 💼 Featured Projects
 
 
 
----
 
 ### 🔹 [PureCPP System](https://github.com/bbzaffari/purecpp_sp)
 Cross-language C++/Python retrieval engine for modular vector processing and hybrid ML workflows.  
