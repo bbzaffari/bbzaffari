@@ -26,16 +26,6 @@
 
 ## 💼 Featured Projects
 
-### 🔹 [Cooling-Link EcoSystem](https://github.com/bbzaffari/TCC-Final-Project-Thesis)
-Modular system-architecture for wireless environmental monitoring and control in cold-storage chambers — **scalable, dependable**. \
-Combines **ESP32** nodes, LoRa + MQTT communication, dew-point-aware logic, and scalable sensor-actuator coordination.
-Includes custom drivers, FreeRTOS tasks, hardware integration, and analysis.\
-**Delivered at U$ 120** compared to R$ 3000 charged by alternative commercial solutions. —  tailored for Brazilian agribusiness.
-
-[![ESP32](https://img.shields.io/badge/Framework-ESP--IDF-orange)]()
-[![Comm](https://img.shields.io/badge/Comm-LoRa%20+%20MQTT-green)]()
-[![System](https://img.shields.io/badge/System-Critical--Aware-red)]()
-[![Build System](https://img.shields.io/badge/Build-CMake-blue)]()
 
 
 ---
