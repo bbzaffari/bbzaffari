@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bruno Bavaresco Zaffari
-*Olá 🇧🇷! · 你好 🇨🇳! · ¡Hola 🇪🇸! ·*  \
+*Hallo 🇩🇪! · Olá 🇧🇷! · 你好 🇨🇳! · ¡Hola 🇪🇸! ·*  \
 *안녕하세요 🇰🇷! · こんにちは 🇯🇵! · Привет 🇷🇺! ·* \
-*Bonjour 🇫🇷! · Ciao 🇮🇹! · Hallo 🇩🇪! · مرحبًا 🇸🇦! · नमस्ते 🇮🇳!*
+*Bonjour 🇫🇷! · Ciao 🇮🇹! · مرحبًا 🇸🇦! · नमस्ते 🇮🇳!*
 
 🎓 Computer Engineering graduate focused on embedded systems, applied AI, and hardware–software integration. 
 
@@ -95,7 +95,6 @@ Designed for educational purposes, it showcases the application of **frequency a
 
 - 📧 bruno.zaffari@edu.pucrs.br  
 - 💼 [LinkedIn](https://www.linkedin.com/in/bruno-bavaresco-zaffari)  
-
   <!-- [TCC Final Project Thesis](https://github.com/bbzaffari/TCC-Final-Project-Thesis) -->
 
 ---
