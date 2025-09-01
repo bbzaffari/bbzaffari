@@ -27,7 +27,7 @@
 
 Due to the need to preserve strategic information until the patent process is fully regularized, the thesis project remains private and full access is currently restricted. 
 
-> Public disclosure will only be granted once all legal and procedural matters are resolved.
+> Full public disclosure will only be granted once all legal and procedural matters are resolved.
 
 - [TCC Final Project Thesis](https://github.com/bbzaffari/TCC-Final-Project-Thesis) 
 ---
