@@ -22,18 +22,9 @@
 - **Communication & Control:** TCP/UDP, MQTT, serial protocols(I2C, UART,SPI,1-Wire, etc), interrupts (ISR), thread-safety, servers
 - **Focus Areas:** C/C++ systems, embedded, AI systems, safety-critical, dependable design, automation, hardware–software co-design, vector-based retrieval (FAISS), hybrid packaging (C++/Python), DevOps
 
----
-## 📄 Confidentiality Notice
 
-Due to the need to preserve strategic information until the patent process is fully regularized, the thesis project remains private and full access is currently restricted. 
-
-> Full public disclosure will only be granted once all legal and procedural matters are resolved.
-
-- [TCC Final Project Thesis](https://github.com/bbzaffari/TCC-Final-Project-Thesis) 
 ---
 ## 💼 Featured Projects
-
-
 
 
 ### 🔹 [PureCPP System](https://github.com/bbzaffari/purecpp_sp)
@@ -97,6 +88,10 @@ Designed for educational purposes, it showcases the application of **frequency a
 
 - 📧 bruno.zaffari@edu.pucrs.br  
 - 💼 [LinkedIn](https://www.linkedin.com/in/bruno-bavaresco-zaffari)  
-- [TCC Final Project Thesis](https://github.com/bbzaffari/TCC-Final-Project-Thesis) 
+- [TCC Final Project Thesis](https://github.com/bbzaffari/TCC-Final-Project-Thesis)
+
+### 📄 Confidentiality Notice:
+> Due to the need to preserve strategic information until the patent process is fully regularized, the thesis project remains private and full access is currently restricted. 
+> Full public disclosure will only be granted once all legal and procedural matters are resolved.
 
 ---
