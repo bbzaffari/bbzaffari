@@ -37,6 +37,16 @@ Features **embedding pipelines, FAISS search, PyBind11 bindings**, and **OpenMP-
 [![CI](https://img.shields.io/badge/CI-GitHub%20Actions-purple)]()
 [![Packaging](https://img.shields.io/badge/Wheels-manylinux-critical)]()
 [![Parallelism](https://img.shields.io/badge/Parallel-OpenMP-blueviolet)]()
+---
+
+### 🔹 [Memory-Mapped I/O (MMIO) - tDES](https://github.com/bbzaffari/MMIO-tripleDes-VHDL-core)
+
+[![MMIO](https://img.shields.io/badge/Interface-MMIO-orange)]()
+[![Virtualization](https://img.shields.io/badge/Virtualization-HW%2FSW-red)]()
+[![RTL](https://img.shields.io/badge/Core-VHDL-green)]()
+[![VHDL](https://img.shields.io/badge/Language-VHDL-yellow)]()
+[![Descriptors](https://img.shields.io/badge/Userland-I%2FO%20Descriptors-blueviolet)]()
+[![CoDesign](https://img.shields.io/badge/Architecture-HW%2FSW--CoDesign-important)]()
 
 ---
 ### 🔹 [PS/2 VHDL Driver](https://github.com/bbzaffari/Driver-PS2-Mouse)
