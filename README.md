@@ -49,7 +49,7 @@ Validated end-to-end through data encryption tests and binary inspection using `
 [![MMIO](https://img.shields.io/badge/Interface-MMIO-orange)]()
 [![RTL](https://img.shields.io/badge/Core-VHDL-green)]()
 [![Dockerized](https://img.shields.io/badge/Environment-Docker--Ready-2496ED?logo=docker&logoColor=white)]()
-[![CoDesign](https://img.shields.io/badge/Architecture-HW%2FSW--CoDesign-important)]()
+[![HW SW](https://img.shields.io/badge/Architecture-HW%2FSW--important)]()
 
 ---
 ### 🔹 [PS/2 VHDL Driver](https://github.com/bbzaffari/Driver-PS2-Mouse)
