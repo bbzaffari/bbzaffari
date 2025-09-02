@@ -51,6 +51,8 @@ Validated end-to-end through data encryption tests and binary inspection using `
 [![Virtualization](https://img.shields.io/badge/Virtualization-HW%2FSW-red)]()
 [![Dockerized](https://img.shields.io/badge/Environment-Docker--Ready-2496ED?logo=docker&logoColor=white)]()
 [![Architecture: HW/SW](https://img.shields.io/badge/Architecture-HW%2FSW-brightgreen.svg)]()
+[![CPU](https://img.shields.io/badge/CPU-RISC%20Architecture-informational)]()
+
 
 
 ---
