@@ -48,9 +48,8 @@ Validated end-to-end through data encryption tests and binary inspection using `
 
 [![MMIO](https://img.shields.io/badge/Interface-MMIO-orange)]()
 [![RTL](https://img.shields.io/badge/Core-VHDL-green)]()
-[![Virtualization](https://img.shields.io/badge/Virtualization-HW%2FSW-red)]()
 [![Dockerized](https://img.shields.io/badge/Environment-Docker--Ready-2496ED?logo=docker&logoColor=white)]()
-[![Architecture: HW/SW](https://img.shields.io/badge/Architecture-HW%2FSW-brightgreen.svg)]()
+[![Virtualization](https://img.shields.io/badge/Virtualization-HW%2FSW-lightgrey.svg)]()
 [![CPU](https://img.shields.io/badge/CPU-RISC%20Architecture-informational)]()
 
 
