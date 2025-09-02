@@ -41,6 +41,11 @@ Features **embedding pipelines, FAISS search, PyBind11 bindings**, and **OpenMP-
 
 ### 🔹 [Memory-Mapped I/O (MMIO) - tDES](https://github.com/bbzaffari/MMIO-tripleDes-VHDL-core)
 
+Hardware crypto module with **Triple DES core in VHDL**, exposed via **memory-mapped I/O registers** on a RISC-compatible SoC.
+Implements full register binding to the RTL provided by vendors, enabling read/write operations through system calls on a lightweight **RTOS (UCX/OS)**.
+Supports multiple cipher modes (**ECB**, **CBC**, **CTR**) and uses **PKCS#7 padding**.
+Validated end-to-end through data encryption tests and binary inspection using `hexdump`.
+
 [![MMIO](https://img.shields.io/badge/Interface-MMIO-orange)]()
 [![Virtualization](https://img.shields.io/badge/Virtualization-HW%2FSW-red)]()
 [![RTL](https://img.shields.io/badge/Core-VHDL-green)]()
