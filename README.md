@@ -22,13 +22,13 @@
 - **Communication & Control:** TCP/UDP, MQTT, serial protocols(I2C, UART,SPI,1-Wire, etc), interrupts (ISR), thread-safety, servers
 - **Fields:**
      C / C++ Systems
-    ◌  HW–SW Co-Design
-    ○  Embedded / AI systems
-    ○  C++ Bindings for Python
-    ○  Vector-Based Retrieval (FAISS)
-    ○  Safety-Critical / Dependable Design whit Portable Build
-    ○  DevOps
-    ○  Automation
+    *○*  HW–SW Co-Design
+    ○  *Embedded / AI systems*
+    ○  *C++ Bindings for Python*
+    ○  *Vector-Based Retrieval (FAISS)*
+    ○ **Safety-Critical / Dependable Design whit Portable Build*
+    ○  *DevOps*
+    ○  *Automation*
 
 ---
 ## 💼 Featured Projects
