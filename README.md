@@ -21,8 +21,8 @@
 - **Build & Tooling:** PyBind11, CMake, Docker, Conan, GitHub Actions, Make, GCC/MSVC
 - **Communication & Control:** TCP/UDP, MQTT, serial protocols(I2C, UART,SPI,1-Wire, etc), interrupts (ISR), thread-safety, servers
 - **Fields:**
-    -  DevOps
-    -  Automation
+    ◯  DevOps
+    ○  Automation
     -  C / C++ Systems
     -  HW–SW Co-Design
     -  Embedded / AI systems
