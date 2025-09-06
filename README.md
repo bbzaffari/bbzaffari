@@ -15,11 +15,11 @@
 
 ## 🛠️ Core Technologies
 
-- **Languages:** C, C++, Python, VHDL, SQL
-- **Embedded Platforms:** Cortex-M0 (CubeIDE), ESP32 (ESP-IDF), FreeRTOS, Zephyr
-- **AI & ML:** PyTorch, CNNs, Torch C++, Feature Extraction  
-- **Build & Tooling:** PyBind11, CMake, Docker, Conan, GitHub Actions, Make, GCC/MSVC
-- **Communication & Control:** TCP/UDP, MQTT, Serial protocols (I2C, UART, SPI, 1-Wire, PCIe, CAN), Interrupts (ISR), Thread-Safety, Servers
+- ***Languages:*** *C, C++, Python, VHDL, SQL*
+- ***Embedded Platforms:***  ESP32 (ESP-IDF), *Cortex-M0 (CubeIDE), FreeRTOS, Zephyr*
+- ***AI & ML:*** Torch C++, *PyTorch, CNNs, LLMs, Feature Extraction*
+- ***Build & Tooling:*** *PyBind11, CMake, Docker, Conan, GitHub Actions, Make, GCC/MSVC*
+- ***Communication & Control:*** *TCP/UDP, MQTT, Serial Protocols (I2C, UART, SPI, 1-Wire, PCIe, CAN), Interrupts (ISR), Thread-Safety*
   
 ####  ***Fields:***
  - *C / C++ Systems* · *HW–SW Co-Design*  · *Embedded / AI systems*  
