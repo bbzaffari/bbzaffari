@@ -17,9 +17,9 @@
 
 - **Languages:** C, C++, Python, VHDL, SQL
 - **Embedded Platforms:** Cortex-M0 (CubeIDE), ESP32 (ESP-IDF), FreeRTOS, Zephyr
-- **AI & ML:** PyTorch, CNNs, Torch C++, embedded inference, signal-based feature extraction  
+- **AI & ML:** PyTorch, CNNs, Torch C++, Feature Extraction  
 - **Build & Tooling:** PyBind11, CMake, Docker, Conan, GitHub Actions, Make, GCC/MSVC
-- **Communication & Control:** TCP/UDP, MQTT, serial protocols (I2C, UART,SPI,1-Wire, etc), interrupts (ISR), thread-safety, servers
+- **Communication & Control:** TCP/UDP, MQTT, Serial protocols (I2C, UART, SPI, 1-Wire, PCIe, CAN), Interrupts (ISR), Thread-Safety, Servers
 - **Fields:**
      - *C / C++ Systems* **·** *HW–SW Co-Design*  **·** *Embedded / AI systems* 
      - *C++ Bindings for Python*  ·  *Portable Build*  ·  *Vector-Based Retrieval (FAISS)* 
