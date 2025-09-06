@@ -23,8 +23,8 @@
 - **Fields:**
     -  DevOps
     -  Automation
-    -  HW–SW Co-Design
     -  C / C++ Systems
+    -  HW–SW Co-Design
     -  Embedded / AI systems
     -  C++ Bindings for Python
     -  Vector-Based Retrieval (FAISS)
