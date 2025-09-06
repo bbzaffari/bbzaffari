@@ -20,8 +20,15 @@
 - **AI & ML:** PyTorch, CNNs, Torch C++, embedded inference, signal-based feature extraction  
 - **Build & Tooling:** PyBind11, CMake, Docker, Conan, GitHub Actions, Make, GCC/MSVC
 - **Communication & Control:** TCP/UDP, MQTT, serial protocols(I2C, UART,SPI,1-Wire, etc), interrupts (ISR), thread-safety, servers
-- **Core Fields:** C/C++ systems, embedded, AI systems, safety-critical, dependable design, automation, hardware–software co-design, vector-based retrieval (FAISS), hybrid packaging (C++/Python), DevOps
-
+- **Fields:**
+    -  DevOps
+    -  Automation
+    -  HW–SW Co-Design
+    -  C / C++ Systems
+    -  Embedded / AI systems
+    -  C++ Bindings for Python
+    -  Vector-Based Retrieval (FAISS)
+    -  Safety-Critical / Dependable Design whit Portable Build
 
 ---
 ## 💼 Featured Projects
