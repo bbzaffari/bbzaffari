@@ -21,14 +21,9 @@
 - **Build & Tooling:** PyBind11, CMake, Docker, Conan, GitHub Actions, Make, GCC/MSVC
 - **Communication & Control:** TCP/UDP, MQTT, serial protocols(I2C, UART,SPI,1-Wire, etc), interrupts (ISR), thread-safety, servers
 - **Fields:**
-     C / C++ Systems
-    *○*  HW–SW Co-Design
-    ○  *Embedded / AI systems*
-    ○  *C++ Bindings for Python*
-    ○  *Vector-Based Retrieval (FAISS)*
-    ○ **Safety-Critical / Dependable Design whit Portable Build*
-    ○  *DevOps*
-    ○  *Automation*
+     *C / C++ Systems* *○*  *HW–SW Co-Design* ○  *Embedded / AI systems* \
+     *C++ Bindings for Python*  ○  *Portable Build*  ○  *Vector-Based Retrieval (FAISS)* \
+     *DevOps* ○ *Safety-Critical / Dependable Design*  ○  *Automation*
 
 ---
 ## 💼 Featured Projects
