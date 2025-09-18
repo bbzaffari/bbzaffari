@@ -112,7 +112,7 @@ Designed for educational purposes, it showcases the application of **frequency a
   > **Confidentiality Notice:**
   > Due to the need to preserve strategic information until the patent process is fully regularized, the thesis project remains private and full access is currently restricted. \
   > Full public disclosure will only be granted once all legal and procedural matters are resolved.\
-  > If you are an interviewer and want to see send me an email. I will be more than happy to send.\
+  > If you are an interviewer and want to see send me an email. I will be more than happy to send.
 
 ---
 ---
