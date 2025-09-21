@@ -79,7 +79,7 @@ Includes a C user-space client for interaction and was **cross-compiled with Bui
 [![Linux](https://img.shields.io/badge/Kernel-Linux-black)]()
 [![Build](https://img.shields.io/badge/Build-Cross--compiled-blueviolet)]()
 [![Tool](https://img.shields.io/badge/Tool-Buildroot-informational)]()
-
+[![Badge](https://img.shields.io/badge/Educational%20Purpose-blue?style=for-the-badge&logo=academia)]()
 
 ---
 ### 🔹 [Vigenère Cipher Cryptanalysis Tool](https://github.com/bbzaffari/VigenereDecryptor)
