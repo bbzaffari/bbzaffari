@@ -107,7 +107,7 @@ Designed for educational purposes, it showcases the application of **frequency a
 
 - 📧 bruno.zaffari@edu.pucrs.br  
 - 💼 [LinkedIn](https://www.linkedin.com/in/bruno-bavaresco-zaffari)  
-#### ***📄 [Cooling-Link](https://github.com/bbzaffari/TCC-Final-Project-Thesis)***  **TCC Final Project Thesis**
+#### ***📄***   **TCC Final Project Thesis** ***[Cooling-Link](https://github.com/bbzaffari/TCC-Final-Project-Thesis)***
   > **Confidentiality Notice:**
   > Due to the need to preserve strategic information until the patent process is fully regularized, the thesis project remains private and full access is currently restricted. \
   > Full public disclosure will only be granted once all legal and procedural matters are resolved.\
