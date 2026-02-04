@@ -109,7 +109,7 @@ Includes a C user-space client for interaction and was **cross-compiled with Bui
 - 📧 bruno.zaffari@edu.pucrs.br  
 - 💼 [LinkedIn](https://www.linkedin.com/in/bruno-bavaresco-zaffari)  
 
-  > #### ***📄***   **TCC Final Project Thesis** ***[Cooling-Link](https://github.com/bbzaffari/TCC-Final-Project-Thesis)*** **Confidentiality Notice:**
+  > #### ***Confidentiality Notice 📄***   **(TCC Final Project Thesis** ***[Cooling-Link](https://github.com/bbzaffari/TCC-Final-Project-Thesis) )***
   > 
   > Due to the need to preserve strategic information until the patent process is fully regularized, the thesis project remains private and full access is currently restricted. \
   > Full public disclosure will only be granted once all legal and procedural matters are resolved.\
