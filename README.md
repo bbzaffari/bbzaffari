@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Bruno Bavaresco Zaffari
-*Hallo 🇩🇪! · Olá 🇧🇷! · 你好 🇨🇳! · ¡Hola 🇪🇸! ·*  \
+*Olá 🇧🇷! · 你好 🇨🇳! · ¡Hola 🇪🇸! · Hallo 🇩🇪! ·*  \
 *안녕하세요 🇰🇷! · こんにちは 🇯🇵! · Привет 🇷🇺! ·* \
 *Bonjour 🇫🇷! · Ciao 🇮🇹! · مرحبًا 🇸🇦! · नमस्ते 🇮🇳!*
 
@@ -71,16 +71,6 @@ Includes finite state machine design, and full **ASIC-oriented flow**, with post
 
 ---
 
-### 🔹 [Messaging Kernel Module](https://github.com/bbzaffari/Messaging-Kernel-Module)  
-**Loadable Kernel Module (LKM)** enabling **message queueing between user-space processes** via a `/dev/mq` ***Character Device*** interface.  
-Implements **per-process circular buffers**, a **control block registry**, and **spinlock-based synchronization** for concurrent messaging.  
-Includes a C user-space client for interaction and was **cross-compiled with Buildroot** for embedded Linux systems.
-
-[![Linux](https://img.shields.io/badge/Kernel-Linux-black)]()
-[![Build](https://img.shields.io/badge/Build-Cross--compiled-blueviolet)]()
-[![Tool](https://img.shields.io/badge/Tool-Buildroot-informational)]()
-
----
 ### 🔹 [Vigenère Cipher Cryptanalysis Tool](https://github.com/bbzaffari/VigenereDecryptor)
 
 This tool performs **automated cryptanalysis** of messages encrypted with the **Vigenère cipher**, a classical polyalphabetic substitution technique.  
@@ -90,6 +80,17 @@ Designed for educational purposes, it showcases the application of **frequency a
 [![Crypto](https://img.shields.io/badge/Focus-Cryptanalysis-critical)]()
 [![Stats](https://img.shields.io/badge/Analysis-χ²%20%7C%20IC%20%7C%20Kasiski-informational)]()
 [![Report](https://img.shields.io/badge/Format-IEEE--style--Report-lightgrey)]()
+---
+
+### 🔹 [Messaging Kernel Module](https://github.com/bbzaffari/Messaging-Kernel-Module)  
+**Loadable Kernel Module (LKM)** enabling **message queueing between user-space processes** via a `/dev/mq` ***Character Device*** interface.  
+Implements **per-process circular buffers**, a **control block registry**, and **spinlock-based synchronization** for concurrent messaging.  
+Includes a C user-space client for interaction and was **cross-compiled with Buildroot** for embedded Linux systems.
+
+[![Linux](https://img.shields.io/badge/Kernel-Linux-black)]()
+[![Build](https://img.shields.io/badge/Build-Cross--compiled-blueviolet)]()
+[![Tool](https://img.shields.io/badge/Tool-Buildroot-informational)]()
+
 
 ---
 
